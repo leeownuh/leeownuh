@@ -11,7 +11,7 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 
 ## 🛠️ Technical Skills  
 ### **💻 Programming & Scripting:**  
-- Python | PHP | C++ | Prolog | Assembly | Delphi  
+- Python |Bash| PHP | C++ | Prolog | Assembly | Delphi  |Powershell
 
 ### **🛠️ Tools & Platforms:**  
 - Wireshark | Burp Suite | Metasploit | Nmap | Packet Tracer | Bash  
@@ -22,6 +22,9 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 ## 🌟 Projects  
 📜**File Type Identification System (Python)** 
 - Detects file types using magic numbers (file signatures), MIME types, and extensions.
+
+🔒**Password_Strength_Tester**
+-The Password Strength Checker is a Python-based cybersecurity tool designed to evaluate the security level of user passwords based on multiple strength factors.
 
 🔒 **Brute Force Simulator (C++)**  
 - Created a **password strength testing tool** to simulate brute force attacks  
