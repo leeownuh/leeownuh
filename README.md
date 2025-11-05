@@ -1,8 +1,13 @@
 # Hi there, I'm Leona Kokerai! 👋  
 
-🚀 **Cybersecurity & Digital Forensics Enthusiast | Secure Web Application Developer | Graphic Designer | Open to Internships**  
+🚀 **Cybersecurity & Digital Forensics Enthusiast | Secure Web Application Developer | Graphic Designer | First-Generation Woman in STEM | Open to Internships & Research Collaborations**  
 
 ## 🔥 About Me  
+I’m an **dedicated, energetic and ambitious Computer Science student** specializing in Cybersecurity at Lovely Professional University, India, with a** CGPA of 4.35 (First Class Honours expected)**.
+As a **first-generation woman in STEM**, I’m passionate about breaking barriers, inspiring others, and shaping a safer digital world through technology and education.
+
+I bring together a unique blend of **offensive security, web development, digital forensics, and creative problem-solving.** I enjoy performing penetration tests, vulnerability assessments, secure coding, and incident response while also mentoring and teaching others along the way.
+
 I am a passionate **Computer Science student specializing in Cybersecurity** with hands-on experience in **penetration testing, network security, system administration, graphic design, and web development**. I love working on **innovative projects, solving cybersecurity challenges, and continuously learning** new technologies.  
 
 - 🎓 **Education**: BSc (Hons) Computer Science - Cybersecurity | Lovely Professional University, India  
@@ -14,10 +19,14 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 - Python |Bash| PHP | C++ | Prolog | Assembly | Delphi  |Powershell
 
 ### **🛠️ Tools & Platforms:**  
-- Wireshark | Burp Suite | Metasploit | Nmap | Packet Tracer | Bash  
+- Burp Suite | Metasploit | Nmap | Wireshark | Hydra | sqlmap | Autopsy | Volatility | Splunk | Packet Tracer
 
 ### **📌 Web & Database Development:**  
-- HTML | CSS | Laravel | MySQL | PHP  
+- HTML | CSS | JavaScript | Laravel | MySQL | PHP | Cloudflare
+
+###**☁️ Cloud & Infrastructure Security**
+
+AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
 ## 🌟 Projects  
 📜**File Type Identification System (Python)** 
