@@ -29,6 +29,11 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
 ## 🌟 Projects  
+
+"""
+🖥️**Smart Offensive Security Job Scraper**
+Auto-discovers entry-level cybersecurity/offensive security roles and extracts skills, tools, and certifications dynamically using NLP.
+
 📜**File Type Identification System (Python)** 
 - Detects file types using magic numbers (file signatures), MIME types, and extensions.
 
