@@ -30,11 +30,23 @@ AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
 ## 🌟 Projects  
 
+### 🔐 Ownuh SecurePass Analyzer
+**Professional Password Auditing Tool** — Analyze, strengthen, and visualize password security in real time.
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**Features:**
+- 📊 Entropy calculation & strength classification
+- 🔍 Pattern detection (common sequences, repeated chars, years, etc.)
+- 🧠 Smart password suggestions
+- 🔒 Policy compliance checks
+- 📈 Entropy growth graphs
+- 🧾 Bulk analysis & CSV export
+- 🌙 Light/Dark mode
+- 💾 Clipboard safety
+
 📜**File Type Identification System (Python)** 
 - Detects file types using magic numbers (file signatures), MIME types, and extensions.
-
-🔒**Password_Strength_Tester**
--The Password Strength Checker is a Python-based cybersecurity tool designed to evaluate the security level of user passwords based on multiple strength factors.
 
 🔒 **Brute Force Simulator (C++)**  
 - Created a **password strength testing tool** to simulate brute force attacks  
