@@ -24,7 +24,7 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 ### **📌 Web & Database Development:**  
 - HTML | CSS | JavaScript | Laravel | MySQL | PHP | Cloudflare
 
-###**☁️ Cloud & Infrastructure Security**
+## **☁️ Cloud & Infrastructure Security**
 
 AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
