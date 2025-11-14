@@ -3,7 +3,7 @@
 🚀 **Cybersecurity & Digital Forensics Enthusiast | Secure Web Application Developer | Graphic Designer | First-Generation Woman in STEM | Open to Internships & Research Collaborations**  
 
 ## 🔥 About Me  
-I’m an **dedicated, energetic and ambitious Computer Science student** specializing in Cybersecurity at Lovely Professional University, India, with a** CGPA of 4.35 (First Class Honours expected)**.
+I’m an **dedicated, energetic and ambitious Computer Science student** specializing in Cybersecurity at Lovely Professional University, India, with a ** CGPA of 4.35 (First Class Honours expected)**.
 As a **first-generation woman in STEM**, I’m passionate about breaking barriers, inspiring others, and shaping a safer digital world through technology and education.
 
 I bring together a unique blend of **offensive security, web development, digital forensics, and creative problem-solving.** I enjoy performing penetration tests, vulnerability assessments, secure coding, and incident response while also mentoring and teaching others along the way.
