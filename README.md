@@ -28,14 +28,13 @@ I am a passionate **Computer Science student specializing in Cybersecurity** wit
 
 AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
-## 🌟 Projects  
+## 🌟 Projects
 
-** 🔐 Ownuh SecurePass Analyzer**
-**Professional Password Auditing Tool** — Analyze, strengthen, and visualize password security in real time.
-
+### 🔐 Ownuh SecurePass Analyzer
+**Professional Password Auditing Tool** — Analyze, strengthen, and visualize password security in real time.  
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**Features:**
+Features:
 - 📊 Entropy calculation & strength classification
 - 🔍 Pattern detection (common sequences, repeated chars, years, etc.)
 - 🧠 Smart password suggestions
@@ -45,42 +44,34 @@ AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 - 🌙 Light/Dark mode
 - 💾 Clipboard safety
 
-**🛡️ Secure Web Application Assessment (Ethical Hacking Demo) **
+---
 
-Created for My Eduvos **Mock Lecture** — Interactive Cybersecurity Teaching & Demo Platform
-A fully interactive web-based cybersecurity lecture environment built specifically for my Nock mock interview.
-Designed to demonstrate security concepts in a beginner-friendly, visual way using real scanning results, simulated vulnerabilities, and structured methodologies.
+### 🛡️ Secure Web Application Assessment (Ethical Hacking Demo)
+Created for My Eduvos **Mock Lecture** — interactive cybersecurity teaching & demo platform built for a mock interview. Demonstrates security concepts with safe, visual examples.
 
-**Features:**
--📚 15-minute security lecture simulator with visual sections
--⏱️ Built-in lecture timer and navigation system
--🧪 SQL Injection demo with live query construction
--🔍 Vulnerability scanner simulation (OWASP ZAP / Nikto–style safe output)
--🖥️ Realistic verbose vs non-verbose scan modes
--🧩 Explained major vulnerability classes(SQL Injection)
--🖥️ OS forensics comparison(Windows vs UNIX compromise artefacts)
--📝 Penetration Test Reporting Framework (executive summary → findings → recommendations)
+Features:
+- 📚 15-minute lecture simulator with visual sections
+- ⏱️ Built-in lecture timer and navigation
+- 🧪 SQL Injection demo with live query construction (safe/simulated)
+- 🔍 Vulnerability scanner simulation (OWASP ZAP / Nikto–style safe output)
+- 🖥️ Verbose vs non-verbose scan modes
+- 🧩 Explained major vulnerability classes (e.g., SQL Injection)
+- 🖥️ OS forensics comparison (Windows vs UNIX compromise artefacts)
+- 📝 Penetration test reporting framework (executive summary → findings → recommendations)
 
+---
 
-📜**File Type Identification System (Python)** 
-- Detects file types using magic numbers (file signatures), MIME types, and extensions.
+### Other Projects
 
-🔒 **Brute Force Simulator (C++)**  
-- Created a **password strength testing tool** to simulate brute force attacks  
+- 📜 **File Type Identification System (Python)** — Detects file types using magic numbers (file signatures), MIME types, and extensions.  
+- 🔒 **Brute Force Simulator (C++)** — Password strength testing tool that simulates brute-force attacks.  
+- 🚀 **Eduflex Academy** — School website & admin dashboard built with **PHP (Laravel), MySQL, Bootstrap**.  
+- 💰 **QuickPayMoney Transfer** — Online currency converter using **HTML, CSS, JavaScript**.  
+- 🖥️ **IoT Protocol Quiz (HTML)** — Interactive quiz on IoT protocols for educational purposes.  
+- 📜 **Progress Tracker** — Documenting my cybersecurity learning journey and progress.
 
-🚀 **Eduflex Academy - School Website & Admin Dashboard**  
-- Built a **school management platform** using **PHP (Laravel), MySQL, Bootstrap**  
+More projects available on **[my GitHub](https://github.com/leeownuh)**.
 
-💰 **QuickPayMoney Transfer - Currency Converter**  
-- Developed an **online currency converter** using **HTML, CSS, JavaScript**  
-
-🖥️ **IoT Protocol Quiz (HTML)**  
-- Developed an **interactive quiz on IoT protocols** for educational purposes  
-
-📜 **Progress Tracker**  
-- Documenting my **Cybersecurity learning journey** and progress  
-
-🚀 More projects available on **[my GitHub](https://github.com/leeownuh)**  
 
 ## 💬 Let's Connect!  
 - 📧 **Email**: [leonakokerai@outlook.com](mailto:leonakokerai@outlook.com)  
