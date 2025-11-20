@@ -45,6 +45,23 @@ AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 - 🌙 Light/Dark mode
 - 💾 Clipboard safety
 
+### 🛡️ Secure Web Application Assessment (Ethical Hacking Demo) — 2025
+
+Created for My Eduvos **Mock Lecture** — Interactive Cybersecurity Teaching & Demo Platform
+A fully interactive web-based cybersecurity lecture environment built specifically for my Nock mock interview.
+Designed to demonstrate security concepts in a beginner-friendly, visual way using real scanning results, simulated vulnerabilities, and structured methodologies.
+
+**Features:**
+-📚 15-minute security lecture simulator with visual sections
+-⏱️ Built-in lecture timer and navigation system
+-🧪 SQL Injection demo with live query construction
+-🔍 Vulnerability scanner simulation (OWASP ZAP / Nikto–style safe output)
+-🖥️ Realistic verbose vs non-verbose scan modes
+-🧩 Explained major vulnerability classes(SQL Injection)
+-🖥️ OS forensics comparison(Windows vs UNIX compromise artefacts)
+-📝 Penetration Test Reporting Framework (executive summary → findings → recommendations)
+
+
 📜**File Type Identification System (Python)** 
 - Detects file types using magic numbers (file signatures), MIME types, and extensions.
 
