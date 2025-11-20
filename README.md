@@ -30,7 +30,7 @@ AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 
 ## 🌟 Projects  
 
-### 🔐 Ownuh SecurePass Analyzer
+** 🔐 Ownuh SecurePass Analyzer**
 **Professional Password Auditing Tool** — Analyze, strengthen, and visualize password security in real time.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -45,7 +45,7 @@ AWS (Basic) | Azure (Basic) | Firewall Configuration | RBAC | VPNs | IDS/IPS
 - 🌙 Light/Dark mode
 - 💾 Clipboard safety
 
-### 🛡️ Secure Web Application Assessment (Ethical Hacking Demo) — 2025
+**🛡️ Secure Web Application Assessment (Ethical Hacking Demo) **
 
 Created for My Eduvos **Mock Lecture** — Interactive Cybersecurity Teaching & Demo Platform
 A fully interactive web-based cybersecurity lecture environment built specifically for my Nock mock interview.
