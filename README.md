@@ -8,7 +8,7 @@
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Global-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/leeownuh)
-[![LPU](https://img.shields.io/badge/CGPA-8.81%20%2F%2010-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://www.lpu.in/)
+[![LPU](https://img.shields.io/badge/CGPA-9.22%20%2F%2010-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://www.lpu.in/)
 [![Cohort](https://img.shields.io/badge/Cohort%20Rank-Top%201%25-gold?style=for-the-badge&logo=medal&logoColor=white)](https://www.lpu.in/)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=for-the-badge&logo=handshake&logoColor=white)](mailto:leonakokerai@outlook.com)
 
@@ -24,7 +24,7 @@ $ cat leona.txt
 Name       : Leona Kokerai
 Role       : BSc (Hons) CS – Cyber Security | Lovely Professional University
 Graduating : 2026
-CGPA       : 8.81 / 10  (First Class)
+CGPA       : 9.22 / 10  (First Class)
 Cohort     : Top 1% – Cybersecurity cohort, LPU
 TryHackMe  : Top 3% globally — out of millions of practitioners
 Nationality: Zimbabwean | Open to relocation | Visa sponsorship required
@@ -37,7 +37,7 @@ I'm not a typical cybersecurity student.
 
 I ran a **real black-box penetration test** on a live production system — zero prior knowledge, 50+ active users at risk — and uncovered **12 critical vulnerabilities** across authentication, session management, and access control. I documented every finding, mapped them to OWASP Top 10 and NIST SP 800-115, and delivered a professional report whose remediation recommendations were **actually adopted by the client**.
 
-I built and secured AWS infrastructure handling **5,000+ concurrent users**. I ranked **Top 3% globally on TryHackMe**. I have a First Class CGPA of **8.81/10**. I hold certifications from ISC2, Google, IBM, Quick Heal, CompTIA, and Tata.
+I built and secured AWS infrastructure handling **5,000+ concurrent users**. I ranked **Top 3% globally on TryHackMe**. I have a First Class CGPA of **9.22/10**. I hold certifications from ISC2, Google, IBM, Quick Heal, CompTIA, and Tata.
 
 I'm a first-generation woman in STEM, fluent in six languages, raised across Zimbabwe, South Africa, and India. I bring technical depth, cross-cultural communication, and the kind of relentless drive that doesn't come from a textbook.
 
