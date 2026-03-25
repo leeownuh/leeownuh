@@ -52,7 +52,7 @@ I'm a first-generation woman in STEM, fluent in six languages, raised across Zim
 | 💡 | 12 critical vulnerabilities found on a **live production system** | 2024–2025 |
 | 📈 | Drove **35% revenue growth in 3 months** at Eduflex Academy via digital transformation | 2024 |
 | 🏆 | Best Information Technology Student — Hoërskool Ben Viljoen | 2020–2022 |
-| 📚 | Academic Top 10% nationally — Hoërskool Ben Viljoen | 2018–2022 |
+| 📚 | Academic Top 10%  — Hoërskool Ben Viljoen | 2018–2022 |
 | 🌍 | Grade 11 Sekhukhune District Top 100 | 2021 |
 
 ---
