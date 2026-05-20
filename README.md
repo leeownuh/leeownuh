@@ -33,7 +33,7 @@ Email      : leonakokerai@outlook.com
 Portfolio  : https://leeownuh.github.io/cv-resume-portfolio/
 ```
 
-I'm not a typical cybersecurity student.
+I'm not a typical Full-Stack Software Engineer...
 
 I ran a **real black-box penetration test** on a live production system — zero prior knowledge, 50+ active users at risk — and uncovered **12 critical vulnerabilities** across authentication, session management, and access control. I documented every finding, mapped them to OWASP Top 10 and NIST SP 800-115, and delivered a professional report whose remediation recommendations were **actually adopted by the client**.
 
