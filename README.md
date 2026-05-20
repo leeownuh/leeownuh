@@ -1,10 +1,10 @@
-<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  LEONA KOKERAI  ·  CYBERSECURITY SPECIALIST  ·  CLASS OF 2026 ║
-║       "Find me before they find you."                         ║
-╚═══════════════════════════════════════════════════════════════╝
+
+```<div align="center">
+╔════════════════════════════════════════════════════════════════════════════╗
+║  Full-Stack Software Engineer  ·  DevSecOps  · Security Engineer           ║
+║       "Find me before they find you."                                      ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Global-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/leeownuh)
