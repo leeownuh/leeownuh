@@ -86,15 +86,15 @@ JavaScript · Node.js · React.js · HTML · CSS · Assembly
 
 ### Cloud & Infrastructure
 ```
-AWS · Docker · Linux Administration · Windows Systems
-Cisco Packet Tracer · Wireshark · GitHub Actions CI/CD · RBAC
-VPNs · Firewalls · IDS/IPS · Grafana · MongoDB · Redis
+AWS (EC2,S3,Route53,CloudWatch,CloudTrail,Cloud Security) · Docker · GitHub Actions CI/CD · RBAC
+VPNs · Firewalls · IDS/IPS · Grafana · MongoDB · Redis ·Linux Administration · Windows Systems
+Cisco Packet Tracer · Wireshark 
 ```
 
 ### GRC & Compliance
 ```
 ISO 27001 · PCI DSS · HIPAA · GDPR · Zero Trust Architecture
-NIST SP 800-53 · NIST SP 800-115 · NIST CSF · MITRE ATT&CK
+NIST SP 800-53 · NIST SP 800-115 · NIST CSF · MITRE ATT&CK · POPIA
 ```
 
 ---
@@ -176,7 +176,7 @@ Professional password auditing tool that evaluates credentials via complexity sc
 ✅  Web Fundamentals Certificate                     — TryHackMe
 ✅  Cyber Security 101 Certificate                   — TryHackMe
 ✅  Pre-Security Certificate                         — TryHackMe
-🔜  CompTIA Security+                               — Exam Booked · 2026
+🔜  CompTIA Security+                               — Exam Booked · May 2026
 🎓  BSc Hons CS – Cyber Security (CompTIA tie-up)   — LPU · 2026
 ```
 
