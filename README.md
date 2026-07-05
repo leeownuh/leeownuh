@@ -165,10 +165,11 @@ Professional password auditing tool that evaluates credentials via complexity sc
 ## `cat /certifications/`
 
 ```
+✅  Certified Digital Forensic Investigator          — Quick Heal
+✅  Security+ (SYC 701)                              — CompTia
 ✅  Certified in Cybersecurity (CC)                  — ISC2
 ✅  Google Cybersecurity Professional Certificate    — Google · Coursera
 ✅  Google IT Support Professional Certificate       — Google · Coursera
-✅  Certified Digital Forensic Investigator          — Quick Heal
 ✅  Securing Computer Systems                        — Quick Heal
 ✅  Introduction to Ethical Hacking                  — CompTIA
 ✅  Jr. Penetration Tester Certificate               — TryHackMe
@@ -176,7 +177,6 @@ Professional password auditing tool that evaluates credentials via complexity sc
 ✅  Web Fundamentals Certificate                     — TryHackMe
 ✅  Cyber Security 101 Certificate                   — TryHackMe
 ✅  Pre-Security Certificate                         — TryHackMe
-🔜  CompTIA Security+                               — Exam Booked · May 2026
 🎓  BSc Hons CS – Cyber Security (CompTIA tie-up)   — LPU · 2026
 ```
 
